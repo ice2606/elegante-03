@@ -251,7 +251,7 @@ nike color blanco estilo botin
             <p>
 nike con diseño tornasol morado 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nikecon diseño tornasol  '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nike con diseño tornasol  '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>        
