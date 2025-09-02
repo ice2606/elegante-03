@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -16,9 +15,7 @@
     </style>
 </head>
 <body>
-    <h1>¡Hola! Este es un ejemplo con fondo de imagen.</h1>
-</body>
-</html>
+
 
 
 
