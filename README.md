@@ -157,6 +157,19 @@
                 Contactar por WhatsApp
             </a>
         </div>
+
+ <div class="product-card">
+        <img src="https://via.placeholder.com/500" alt="Imagen del producto" class="product-image">
+        <div class="product-content">
+            <h1>Nombre del Producto</h1>
+            <p>
+                Esta es una descripción detallada del producto. Aquí puedes explicar sus características, beneficios y por qué es la mejor opción.
+                La información se ajustará automáticamente a cualquier pantalla, desde móviles pequeños hasta tabletas grandes.
+            </p>
+            <a href="https://wa.me/numerodetelefono?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20Producto'" class="whatsapp-button" target="_blank">
+                Contactar por WhatsApp
+            </a>
+        </div>
     </div>
     <a href="https://ice2606.github.io/elegante-02/" class="back-button">
         Ir atrás
