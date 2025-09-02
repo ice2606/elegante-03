@@ -130,7 +130,7 @@
             <p>
                 nike rojo con negro edicion especial 
             </p>
-            <a href="https://wa.me/numerodetelefono?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20Producto'" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/505 8657 4008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20Producto'" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
